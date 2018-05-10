@@ -1,0 +1,9 @@
+{
+  "name": "try-node-10",
+  "version": "1.0.0",
+  "description": "Node 10.0.0 on RunKit",
+  "main": "index.js",
+  "repository": "https://www.github.com/runkitdev/try-node",
+  "author": "Pieter Ouwerkerk <pieter.ouwerkerk@gmail.com>",
+  "license": "MIT"
+}
